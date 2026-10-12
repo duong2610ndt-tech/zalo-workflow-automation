@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+venv/
+.venv/
+chrome_profile/
+history.log
+*.log
+build/
+dist/
+*.exe
+*.rar
+*.zip
+.env
+.DS_Store
+Thumbs.db
